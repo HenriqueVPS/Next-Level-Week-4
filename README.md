@@ -28,3 +28,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+Nessa aplicação, foi utilizado Next.js, Typescript, e React JS, eu pude através desta aprender mais sobre essas três tecnolgias e seu funcionamento em conjunto conceitos de tipagem com o typescript e interface e tambem na parte do react o maior foco foi o context api. o intuito dessa aplicação é aprimorar meus conhecimentos em desenvolvimento, ela traz a ideia de ajudar pessoas a fazer exercício fisíco em casa levando em consideração o tempo de isolamento que estamos vivendo onde as pessoas estão passando maior parte do seu dia em casa, assim elas podem cumprir desafios que as levam a se exercitar diariamente e subir de nível tornando assim uma experiência agradavel.
